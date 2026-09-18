@@ -1,41 +1,44 @@
-# 👋 Hi, I’m Juan Pablo Velásquez (IngJPablo)
+# 👋 Hola, soy Juan Pablo Velásquez Prieto (IngJPablo)
 
-**Civil engineer student | Metro de Bogotá | BIM & sustainable infrastructure**
+**Fundador y CEO de AxioPri S.A.S. BIC · Estudiante de Ingeniería Civil · Construyo software para obra, campo y aula**
 
-I’m a 5th–semester Civil Engineering student at **Universidad La Gran Colombia** and a site assistant (boal) at **SEC S.A.S.** working on the **Bogotá Metro** project. I’m passionate about applying **BIM** and **AI** to improve design, planning, and site workflows.
-
----
-
-## 🔧 Core skills
-
-* **BIM & CAD:** Revit, AutoCAD, Civil 3D
-* **Analysis & calc:** Excel (advanced), basic MATLAB/SAP2000
-* **Programming:** Python (data/automation), LaTeX
-* **Project tools:** MS Project, BIM workflows
-
-## 🚀 Focus & interests
-
-* Structures • Hydrology • Roads • Sustainability
-* AI for engineering (automation, QA, data-driven decisions)
-
-## 📌 Highlighted projects
-
-* **Hydrology – Bogotá–La Calera:** Watershed analysis and rational method design flows.
-* **BIM mini–projects:** Parametric families & model organization for small structures.
-* **Python for Civil:** Quick scripts to automate repetitive calculations and unit checks.
-
-> I’ll be pinning repositories here as I publish them.
-
-## 🎯 Goals
-
-* Short term: improve automation for site reports and quantity takeoffs.
-* Mid term: grow into a junior engineer role and pursue a master’s abroad.
-
-## 📫 Contact
-
-* Email: **[juan2001pa3.4@gmail.com](mailto:juan2001pa3.4@gmail.com)**
-* Location: Bogotá, Colombia
+*Civil engineering student and founder of AxioPri S.A.S. BIC, a Colombian strategic-engineering firm building AI-first tools for construction sites, farms and students.*
 
 ---
 
-> “Engineering doesn’t just build structures—it builds the future.”
+## 🏗️ AxioPri S.A.S. BIC
+
+Firma colombiana de ingeniería estratégica con modelo *asset-light*, nacida en la Orinoquia. Sociedad de Beneficio e Interés Colectivo: cada proyecto equilibra rentabilidad, impacto social y ambiente.
+
+- Auditoría de cantidades y control de costos de obra
+- BIM bajo NTC-ISO 19650
+- Inteligencia artificial aplicada a ingeniería y gestión
+
+## 🚀 Productos en desarrollo
+
+| Producto | Qué resuelve | Stack |
+|---|---|---|
+| **AxioMétrica** | SaaS para gestión integral de obras: bitácora, asistencia con GPS, SISO, almacén, maquinaria, costos, prenómina y huella de carbono | Next.js, Firebase, Gemini |
+| **Oasis Agro** | Contabilidad y gestión para fincas pequeñas y medianas, multi-finca, con asistente de IA por voz | React, Express, Firebase, Gemini |
+| **Studia** | Agenda académica para Android con horario, tareas, notas, Pomodoro y tutor de IA | Kotlin, Jetpack Compose, Room, Gemini |
+| **Panela Tienda** | E-commerce de panela artesanal de finca con pagos Wompi y logística para Colombia | Next.js, Supabase |
+
+## 🔧 Herramientas
+
+- **Ingeniería:** Revit, AutoCAD, Civil 3D, MS Project, Excel avanzado
+- **Software:** TypeScript, React, Next.js, Kotlin, Python, Firebase, Supabase
+- **IA:** Gemini, OpenAI, agentes y flujos con Claude Code
+
+## 🎓 Formación y experiencia
+
+- Ingeniería Civil, Universidad La Gran Colombia
+- Auxiliar de obra en SEC S.A.S. para el proyecto Metro de Bogotá
+
+## 📫 Contacto
+
+- Correo: [juan2001pa3.4@gmail.com](mailto:juan2001pa3.4@gmail.com)
+- Bogotá y Llanos Orientales, Colombia
+
+---
+
+> "La ingeniería no solo construye estructuras, construye futuro."
