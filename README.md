@@ -1,25 +1,31 @@
 # 👋 Hola, soy Juan Pablo Velásquez Prieto (IngJPablo)
 
-**Fundador y CEO de AxioPri S.A.S. BIC · Estudiante de Ingeniería Civil · Construyo software para obra, campo y aula**
+**Fundador de Axio · Estudiante de Ingeniería Civil · Ingeniería civil y software para obra, campo y aula**
 
-*Civil engineering student and founder of AxioPri S.A.S. BIC, a Colombian strategic-engineering firm building AI-first tools for construction sites, farms and students.*
+*Civil engineering student and founder of Axio, a Colombian engineering house based in Bogotá that offers civil engineering consulting and builds software for construction sites and farms.*
 
 ---
 
-## 🏗️ AxioPri S.A.S. BIC
+## 🏗️ Axio
 
-Firma colombiana de ingeniería estratégica con modelo *asset-light*, nacida en la Orinoquia. Sociedad de Beneficio e Interés Colectivo: cada proyecto equilibra rentabilidad, impacto social y ambiente.
+Casa de ingeniería colombiana con sede en Bogotá y raíces en los Llanos Orientales. Por ahora presta sus servicios como persona natural con RUT, bajo la marca Axio. Su idea guía: que cada resultado se pueda verificar.
 
-- Auditoría de cantidades y control de costos de obra
-- BIM bajo NTC-ISO 19650
-- Inteligencia artificial aplicada a ingeniería y gestión
+**AxioConsultoría**, su línea de ingeniería civil, trabaja a partir de los planos del proyecto:
 
-## 🚀 Productos en desarrollo
+- Cómputos y cantidades de obra
+- Presupuesto de obra con APU
+- Verificación documental NSR-10
+- Planos y modelado
+- Control presupuestal
+
+Más en [axio-co.vercel.app](https://axio-co.vercel.app).
+
+## 🚀 Software
 
 | Producto | Qué resuelve | Stack |
 |---|---|---|
-| **AxioMétrica** | SaaS para gestión integral de obras: bitácora, asistencia con GPS, SISO, almacén, maquinaria, costos, prenómina y huella de carbono | Next.js, Firebase, Gemini |
-| **Oasis Agro** | Contabilidad y gestión para fincas pequeñas y medianas, multi-finca, con asistente de IA por voz | React, Express, Firebase, Gemini |
+| **AxioMétrica** | Gestión de obra: bitácora, personal, asistencia con GPS, SISO, almacén, materiales, maquinaria y prenómina | Next.js, Firebase |
+| **[Axiofinca](https://axiofinca.vercel.app)** | Gestión agropecuaria y contable para fincas pequeñas y medianas, con asistente de IA por texto y voz | React, Express, Firebase |
 | **Studia** | Agenda académica para Android con horario, tareas, notas, Pomodoro y tutor de IA | Kotlin, Jetpack Compose, Room, Gemini |
 | **Panela Tienda** | E-commerce de panela artesanal de finca con pagos Wompi y logística para Colombia | Next.js, Supabase |
 
@@ -32,11 +38,12 @@ Firma colombiana de ingeniería estratégica con modelo *asset-light*, nacida en
 ## 🎓 Formación y experiencia
 
 - Ingeniería Civil, Universidad La Gran Colombia
-- Auxiliar de obra en SEC S.A.S. para el proyecto Metro de Bogotá
+- Ayudante de construcción en la Primera Línea del Metro de Bogotá, con Sistemas Especiales de Construcción
 
 ## 📫 Contacto
 
-- Correo: [juan2001pa3.4@gmail.com](mailto:juan2001pa3.4@gmail.com)
+- Correo: [juan2001pa3.5@gmail.com](mailto:juan2001pa3.5@gmail.com)
+- WhatsApp: [+57 310 629 9041](https://wa.me/573106299041)
 - Bogotá y Llanos Orientales, Colombia
 
 ---
