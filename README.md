@@ -25,7 +25,7 @@ Más en [axio-co.vercel.app](https://axio-co.vercel.app).
 | Producto | Qué resuelve | Stack |
 |---|---|---|
 | **AxioMétrica** | Gestión de obra: bitácora, personal, asistencia con GPS, SISO, almacén, materiales, maquinaria y prenómina | Next.js, Firebase |
-| **[Axiofinca](https://axiofinca.vercel.app)** | Gestión agropecuaria y contable para fincas pequeñas y medianas, con asistente de IA por texto y voz | React, Express, Firebase |
+| **[Axiofinca](https://oasis-c1cfc.web.app)** | Gestión agropecuaria y contable para fincas pequeñas y medianas, con asistente de IA por texto y voz | React, Express, Firebase |
 | **Studia** | Agenda académica para Android con horario, tareas, notas, Pomodoro y tutor de IA | Kotlin, Jetpack Compose, Room, Gemini |
 | **Panela Tienda** | E-commerce de panela artesanal de finca con pagos Wompi y logística para Colombia | Next.js, Supabase |
 
